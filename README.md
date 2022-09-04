@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0xshivam
-- 👀 I’m interested in web hacking
-- 🌱 I’m currently learning c++ programming language & MERN stack
+- 👀 I’m interested in web hacking.
+- 🌱 I’m currently learning Next.js 
 - 💞️ I’m looking to collaborate on hacking tools.
 - 📫 Contact me on linkedin - 0xshivam
 
