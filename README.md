@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @0xshivam
-- 👀 I’m interested in web hacking.
-- 🌱 I’m currently learning Next.js 
-- 💞️ I’m looking to collaborate on hacking tools.
-- 📫 Contact me on linkedin - 0xshivam
+<h2> Hi, I'm Shivam Sharma <img src="https://media.giphy.com/media/ZECV5BL5Y6aM1M4Szj/giphy.gif" width="50"></h2>
 
-<!---
-0xshivam/0xshivam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Twitter Follow](https://img.shields.io/twitter/follow/0xshivam?style=social)](https://twitter.com/0xshivam)
