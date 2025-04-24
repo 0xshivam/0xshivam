@@ -1,8 +1,7 @@
 <h2> Hi, I'm Shivam Sharma <img src="https://media.giphy.com/media/ZECV5BL5Y6aM1M4Szj/giphy.gif" width="50"></h2>
-<i></i>  DevOps Engineer | Python programmer <br>
-🚀 Passionate about building scalable infrastructure and streamlining deployments through automation.
+<i></i>  DevOps Engineer | Python programmer | Ex- Technical Content Writer @geeksforgeeks.</i> <br><br>
 
-Ex- Technical Content Writer @geeksforgeeks.</i> <br><br>
+🚀 Passionate about building scalable infrastructure and streamlining deployments through automation.
 <br>
 _Always learning. Always building. 🚀_
 
