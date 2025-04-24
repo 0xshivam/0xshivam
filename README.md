@@ -1,5 +1,5 @@
 <h2> Hi, I'm Shivam Sharma <img src="https://media.giphy.com/media/ZECV5BL5Y6aM1M4Szj/giphy.gif" width="50"></h2>
-<i></i>  👨‍💻 DevOps Engineer | 🐧 Linux Enthusiast | ☁️ Cloud & Automation Lover <br>
+<i></i>  I am a DevOps Engineer and a Python programmer <br>
 <br>
 Ex- Technical Content Writer @geeksforgeeks.</i> <br><br>
 
